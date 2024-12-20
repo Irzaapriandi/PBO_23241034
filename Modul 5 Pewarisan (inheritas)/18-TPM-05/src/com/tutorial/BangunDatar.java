@@ -3,11 +3,11 @@ package com.tutorial;
 // Super class
 public class BangunDatar {
 
-    float luas() {
+    public float luas() {
         return 0;
     }
     
-    float keliling() {
+    public float keliling() {
         return 0;
     }
 }
